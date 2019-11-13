@@ -1,14 +1,17 @@
-words = {
-    0:"poire",
-    1:"guidon",
-    2:"silouhette",
-    3:"friandise",
-    4:"lentille",
-    5:"veste",
-    6:"chemise",
-    7:"fauteuil",
-    8:"etagere",
-    9:"voiture",
-    10:"immeuble"
-}
+words = [
+    "poire",
+    "guidon",
+    "silouhette",
+    "friandise",
+    "lentille",
+    "veste",
+    "chemise",
+    "fauteuil",
+    "etagere",
+    "voiture",
+    "immeuble"
+]
 
+tries=8
+
+saveFile="score.sav"
